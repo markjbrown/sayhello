@@ -27,7 +27,7 @@ td { padding: 0.25em 2em 0.25em 0em; border: 0 none; }
  
 <?php
 
-if(!empty($_POST)) {
+/*if(!empty($_POST)) {
   try {
     $name = $_POST['name'];
     echo "<h2>" . $name . " says, Hello!</h2>";
@@ -38,7 +38,7 @@ if(!empty($_POST)) {
   else {
     echo "<h2>Somone wants to anonymously say, Hello!</h2>";
   }
-}
+}*/
 
 ?>
 </body>
