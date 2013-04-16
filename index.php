@@ -21,7 +21,7 @@ td { padding: 0.25em 2em 0.25em 0em; border: 0 none; }
 <h1>Say Hello!</h1>
 <p>Fill in your name, then click <strong>Submit</strong> to Say Hello.</p>
 <form method="post" action="index.php" enctype="multipart/form-data" >
-      Name:  <input type="text" name="name" id="name"/></br>
+      Name:  <input type="text" name="name" id="name"/></br></br>
       <input type="submit" name="submit" value="Submit" />
 </form>
  
