@@ -1,4 +1,4 @@
 sayhello
 ========
 
-simple demo php script for Azure Websites CLI demo
+Simple demo PHP script for Azure Websites CLI demo.
