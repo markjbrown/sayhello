@@ -29,7 +29,7 @@ td { padding: 0.25em 2em 0.25em 0em; border: 0 none; }
 
 if(!empty($_POST)) {
     $name = $_POST['name'];
-    echo "<h2>".$name." says, Hello there!</h2>";
+    echo "<h2>".$name." says, Hello BUILD!</h2>";
   }
 ?>
 </body>
